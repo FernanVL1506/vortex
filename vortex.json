@@ -1,7 +1,7 @@
-   {
-     "version": "1.2.0",
-     "url": "https://github.com/FernanVL1506/vortex/releases/download/v1.2.0/VORTEX-1.2.0.zip",
-     "sha256": "0FEE870B0E7A43FB35C41109D087E608870999044B3D76BCA20484C849D90CC0",
-     "exe": "VORTEX.exe",
-     "notes": "Primera versión en el launcher"
-   }
+{
+  "version": "1.2.0",
+  "url": "https://github.com/FernanVL1506/vortex/releases/download/1.2.0/VORTEX-1.2.0.zip",
+  "sha256": "0fee870b0e7a43fb35c41109d087e608870999044b3d76bca20484c849d90cc0",
+  "exe": "VORTEX.exe",
+  "notes": "Primera versión en el launcher"
+}
